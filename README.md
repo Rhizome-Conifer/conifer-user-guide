@@ -74,11 +74,11 @@
 2. From there, hover over the session you would like to download and click the 'download' button. 
 
 
-
+<br><br>
 -----------------------------------------------------
 
-
-## GLOSSARY
+<br>
+## Glossary
 ⭐ _- new feature_
 
 **Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, JavaScript, Flash, embedded media, etc)
