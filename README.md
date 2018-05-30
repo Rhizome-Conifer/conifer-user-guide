@@ -75,10 +75,13 @@
 
 
 <br><br>
+
+
 -----------------------------------------------------
 
-<br>
+
 ## Glossary
+
 ⭐ _- new feature_
 
 **Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, JavaScript, Flash, embedded media, etc)
