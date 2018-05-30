@@ -1,6 +1,6 @@
 ## Quick Start
 1. Enter a URL in the box in the center of the screen labeled ‘URL to record’.
-2. Press the ‘collect’ button (on the bottom right hand side of the box where you entered the URL).
+2. Press ‘start’ (on the bottom right hand side of the box where you entered the URL).
 3. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
 4. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording session - you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 5. To end your recording hover over the ‘Recording’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
@@ -18,7 +18,7 @@
 1. Plan what you want to collect in a collection. Note: you cannot delete or modify the individual pages in your collection––adding or deleting from a collection can only occur session-by-session.
 2. Start a collection: enter a name for the collection.
 3. Start a collecting session by entering a URL for a page you want to add to your collection. Enter a URL in the box in the center of the screen labeled ‘URL to record.’
-4. Press the ‘collect’ button (on the bottom right-hand side of the box where you entered the URL).
+4. Press ‘start’ (on the bottom right-hand side of the box where you entered the URL).
 5. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page, be sure to press ‘play’ so the file will load into the browser.
 6. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording session––you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 7. To end your recording, hover over the ‘Recording’ button in the upper left corner of the screen so it changes to ‘Stop’ then click that button.
