@@ -79,14 +79,14 @@ a{
 .navbar{
     min-height: .2rem;
     margin-bottom: .1rem;
-    -webkit-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
-    -moz-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
-    box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
-    border: 0;
+    //-webkit-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    //-moz-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    //box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid #333;
 }
 .header-webrecorder {
     background-color: white;
-    color: #7B7B7B;
+    color: #333;
     padding-top: 0.6rem;
     padding-bottom: 0.6rem;
 }
@@ -101,7 +101,7 @@ a{
       list-style: none;
       a {
           font-weight: 500;
-          color: #7B7B7B;
+          color: #333;
       }
     }
 }
@@ -122,9 +122,9 @@ a{
 }
 .container-fluid{
   margin-right: auto;
-    margin-left: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .navbar-right{
   margin: 0;
