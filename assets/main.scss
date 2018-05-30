@@ -70,6 +70,46 @@ a{
 a:hover{
   color: #74B9F3;
 }
-.site-header{
-  border-top:none;
+.navbar{
+    min-height: .2rem;
+    margin-bottom: .1rem;
+    -webkit-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0.1rem 0 rgba(255, 255, 255, 0.15), 0 0.3rem 0.6rem rgba(0, 0, 0, 0.3);
+    border: 0;
+}
+.header-webrecorder {
+    background-color: white;
+    color: #ccc;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.wr-breadcrumb{
+    padding: 0 !important;
+    padding-left: .5rem;
+    margin: .1rem;
+    border: none;
+    display: inline-block;
+}
+.wr-breadcrumb li{
+  display: inline;
+}
+.wr-breadcrumb li span {
+    color: #7B7B7B;
+    font-weight: 500;
+}
+.wr-breadcrumb li a, .wr-breadcrumb li span {
+    color: #ccc;
+    max-width: 10rem !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.navbar-user-links {
+    margin-right: 1.5rem;
+    float:right;
+
+}
+.navbar-right{
+  margin-right: -15px;
 }
