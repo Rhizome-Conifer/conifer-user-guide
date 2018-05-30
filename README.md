@@ -2,7 +2,7 @@
 1. Enter a URL in the box in the center of the screen labeled ‘URL to record’.
 2. Press ‘start’ (on the bottom right hand side of the box where you entered the URL).
 3. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
-4. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording session - you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
+4. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording [session](#session) - you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 5. To end your recording hover over the ‘Recording’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
 6. Your capture (recording) will then be browsable in replay mode. Note the capture (recording) will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
 7. If you are a logged-in user, this collection will be saved to your account. You can also log in to your account to save the collection after you create it. If you have not logged in you can still download your collection for a limited time (approximately 90 minutes from when you stop your recording session).
@@ -83,36 +83,36 @@
 
 ## Glossary <span>⭐ _- new feature_</span>
 
-**Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, JavaScript, Flash, embedded media, etc)
+<a name="capture"></a>**Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, JavaScript, Flash, embedded media, etc)
 
-**Collection** - named grouping of one or more pages A named grouping of lists and/or pages.
+<a name="collection"></a>**Collection** - named grouping of one or more pages A named grouping of lists and/or pages.
 
-**Collection Navigator** ⭐ - Located on the left-hand side of the screen. You can see all the lists in a collection as well as edit, add, or delete them via this panel.
+<a name="collection-navigator"></a>**Collection Navigator** ⭐ - Located on the left-hand side of the screen. You can see all the lists in a collection as well as edit, add, or delete them via this panel.
 
-**Cover Page** -  The front facing view of a public collection.
+<a name="cover-page"></a>**Cover Page** -  The front facing view of a public collection.
 
-**Inspector Panel** ⭐ - Located in the lower left hand corner of the screen. Displays metadata about a page, such as time of capture and session ID.
+<a name="inspector-panel"></a>**Inspector Panel** ⭐ - Located in the lower left hand corner of the screen. Displays metadata about a page, such as time of capture and session ID.
 
-**Lists** ⭐ - Lists are a way to group pages within a collection. 
+<a name="lists"></a>**Lists** ⭐ - Lists are a way to group pages within a collection. 
 
-**Native browser** - the web browser through which you are accessing the web (and Webrecorder). By default Webrecorder works through the native browser you are using to view web pages but you can choose to instead use a different preconfigured (remote) browser by selecting one from the list in the menu to the left of the box where you enter a URL when you begin a collecting session
+<a name="native-browser"></a>**Native browser** - the web browser through which you are accessing the web (and Webrecorder). By default Webrecorder works through the native browser you are using to view web pages but you can choose to instead use a different preconfigured (remote) browser by selecting one from the list in the menu to the left of the box where you enter a URL when you begin a collecting session
 
-**Network traffic** - communications traveling over a network (e.g. requests and responses between a web browser and server)
+<a name="network-traffic"></a>**Network traffic** - communications traveling over a network (e.g. requests and responses between a web browser and server)
 
-**Page** - web page, which is identified by a URL (sometimes more than one URL is associated with a page but this is not assumed in defining this unit); a page is a foundational unit and can include HTML, CSS, JavaScript, Flash, embedded media, etc
+<a name="page"></a>**Page** - web page, which is identified by a URL (sometimes more than one URL is associated with a page but this is not assumed in defining this unit); a page is a foundational unit and can include HTML, CSS, JavaScript, Flash, embedded media, etc
 
-**Patch** (session) - insertion of missing resources are added to page(s) in a collection
+<a name="patch"></a>**Patch** (session) - insertion of missing resources are added to page(s) in a collection
 
-**Private** - collection or list that is only visible to the owner/creator of the collection when they are logged in to their account
+<a name="private"></a>**Private** - collection or list that is only visible to the owner/creator of the collection when they are logged in to their account
 
-**Public** - collection or list that is shared and discoverable via a user’s account page or by sharing a link
+<a name="public"></a>**Public** - collection or list that is shared and discoverable via a user’s account page or by sharing a link
 
-**Reconstruction** - reassembly of resources (i.e. HTML, JavaScript, embedded media) to recreate a captured page
+<a name="reconstruction"></a>**Reconstruction** - reassembly of resources (i.e. HTML, JavaScript, embedded media) to recreate a captured page
 
-**Remote browser** - a version of a web browser that is self contained and fixed with the default settings assigned to it (preconfigured). A preconfigured browser can be used to capture elements of web pages that might not be able to be rendered by web browsers in the future, such as Flash. To use a preconfigured (remote) browser, select one from the list in the menu to the left of the box where you enter a URL when you begin a collecting session
+<a name="remote-browser"></a>**Remote browser** - a version of a web browser that is self contained and fixed with the default settings assigned to it (preconfigured). A preconfigured browser can be used to capture elements of web pages that might not be able to be rendered by web browsers in the future, such as Flash. To use a preconfigured (remote) browser, select one from the list in the menu to the left of the box where you enter a URL when you begin a collecting session
 
-**Render** - to communicate and reassemble resources to make a archived page browsable
+<a name="render"></a>**Render** - to communicate and reassemble resources to make a archived page browsable
 
-**Session** - period in which web content is captured; sessions are a defining unit for captures (sessions can be deleted but pages or resources within a session cannot be deleted)
+<a name="session"></a>**Session** - period in which web content is captured; sessions are a defining unit for captures (sessions can be deleted but pages or resources within a session cannot be deleted)
 
-**WARC** - A file format used for compiling multiple web resources and related meta information into an archive.
+<a name="warc"></a>**WARC** - A file format used for compiling multiple web resources and related meta information into an archive.
