@@ -4,14 +4,14 @@
 3. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
 4. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording [session](#session) - you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 5. To end your recording hover over the ‘Recording’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
-6. Your capture (recording) will then be browsable in replay mode. Note the capture (recording) will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
-7. If you are a logged-in user, this collection will be saved to your account. You can also log in to your account to save the collection after you create it. If you have not logged in you can still download your collection for a limited time (approximately 90 minutes from when you stop your recording session).
+6. Your [capture](#capture) (recording) will then be browsable in replay mode. Note the capture (recording) will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
+7. If you are a logged-in user, this [collection](#collection) will be saved to your account. You can also log in to your account to save the collection after you create it. If you have not logged in you can still download your collection for a limited time (approximately 90 minutes from when you stop your recording session).
 
 
 ## Browse (access/review collection)
 1. Select the collection you want to browse.
 2. From the pages list, click on the url in the collection you want to review.
-3. You can navigate within your collection by clicking on the links in the collection navigator panel on the left side of the screen to view each page you captured one by one. If you collected pages that link to each other you can use hyperlinks between those two pages to move from one page to the next.
+3. You can navigate within your collection by clicking on the links in the [collection navigator](#collection-navigator) panel on the left side of the screen to view each page you captured one by one. If you collected pages that link to each other you can use hyperlinks between those two pages to move from one page to the next.
 
 
 ## Basic Collection Building
@@ -29,7 +29,7 @@
 
 ## Basic List Building
 1. Click the + sign next to “LISTS” in the collection navigator (left-hand side of the screen).
-2. Start a list: enter a name for the list.
+2. Start a list: enter a name for the [list](#list).
 3. Click Done.
 4. To add pages to a list you can simply drag a page over to the list in the collection navigator.
 5. To view pages in a list, click on the list name in the collection navigator. 
@@ -39,7 +39,7 @@
 
 
 ## Making a Patch (adding to already collected data)
-1. If there is missing content when you review a capture (recording), you will see a message indicating the resource cannot be found. You can often go back to the original page (or a copy in an open web archive) to patch this missing data into the page in your collection.
+1. If there is missing content when you review a capture (recording), you will see a message indicating the resource cannot be found. You can often go back to the original page (or a copy in an open web archive) to [patch](#patch) this missing data into the page in your collection.
 2. To start a patching session, click on the button labeled ‘Try to patch’.
 3. Once you start a patch session, the targeted page will load and Webrecorder will try to retrieve the missing content from the live web, or from a public web archive if you have specified one.
 4. When you end the patch session, Webrecorder will save this additional data to your collection.
@@ -48,14 +48,14 @@
 
 ## Adding to a Collection and Deleting Sessions
 1. Adding or deleting from a collection happens session by session. You cannot delete or modify individual pages or resources.
-2. To delete a session, you can select the menu button next to “See Public View” and then select “Manage Collection Contents” from the dropdown. You can also click the session id via the inspector panel or the session id column in the pages list to get to a particular session on the management page. 
+2. To delete a session, you can select the menu button next to “See Public View” and then select “Manage Collection Contents” from the dropdown. You can also click the session id via the [inspector panel](#inspector-panel) or the session id column in the pages list to get to a particular session on the management page. 
 3. From there, hover over the session you would like to delete and click the trash can icon. 
-4. You can add to a collection by initializing a new collecting session, starting a patch session (if filling in missing content on a previously collected page) or by uploading a WARC file.
+4. You can add to a collection by initializing a new collecting session, starting a patch session (if filling in missing content on a previously collected page) or by uploading a [WARC](#warc) file.
 
 
 ## Managing Collection Privacy
 1. Collections are private by default. You can make a collection public via the privacy settings. A public collection can be viewed by anyone.
-2. To preview what your collection cover page will look like, you can click “See Public View.”
+2. To preview what your collection [cover page](#cover-page) will look like, you can click “See Public View.”
 3. To make a collection public click on “Private Collection’ so it turns to ‘Public Collection’ (it is in the upper right corner of the screen). 
 
 
