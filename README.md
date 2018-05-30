@@ -29,7 +29,7 @@
 
 ## Basic List Building
 1. Click the + sign next to “LISTS” in the collection navigator (left-hand side of the screen).
-2. Start a list: enter a name for the [list](#list).
+2. Start a list: enter a name for the [list](#lists).
 3. Click Done.
 4. To add pages to a list you can simply drag a page over to the list in the collection navigator.
 5. To view pages in a list, click on the list name in the collection navigator. 
