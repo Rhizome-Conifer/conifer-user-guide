@@ -65,15 +65,17 @@ h2{
   span{
     font-size: 14px;
     font-weight: normal;
+    float:right;
   }
 }
 a{
   color:#337ab7;
   text-decoration: none;
+  &:hover{
+    color: #74B9F3;
+  }
 }
-a:hover{
-  color: #74B9F3;
-}
+
 .navbar{
     min-height: .2rem;
     margin-bottom: .1rem;
@@ -94,15 +96,16 @@ a:hover{
     margin: .1rem;
     border: none;
     display: inline-block;
+    li{
+      display: inline;
+      list-style: none;
+      a {
+          font-weight: 500;
+          color: #7B7B7B;
+      }
+    }
 }
-.wr-breadcrumb li{
-  display: inline;
-  list-style: none;
-}
-.wr-breadcrumb li a {
-    font-weight: 500;
-    color: #7B7B7B;
-}
+
 .wr-breadcrumb li a, .wr-breadcrumb li span {
     max-width: 10rem !important;
     overflow: hidden;
