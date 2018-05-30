@@ -73,9 +73,12 @@
 1. To export a session, you can select the menu button next to “See Public View” and then select “Manage Collection Contents” from the dropdown. You can also click the session id via the inspector panel or the session id column in the pages list to get to a particular session on the management page. 
 2. From there, hover over the session you would like to download and click the 'download' button. 
 
+
+
 -----------------------------------------------------
 
-# GLOSSARY
+
+## GLOSSARY
 ⭐ _- new feature_
 
 **Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, JavaScript, Flash, embedded media, etc)
