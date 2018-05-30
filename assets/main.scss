@@ -80,9 +80,9 @@ a:hover{
 }
 .header-webrecorder {
     background-color: white;
-    color: #ccc;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    color: #7B7B7B;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
 }
 .wr-breadcrumb{
     padding: 0 !important;
@@ -93,13 +93,12 @@ a:hover{
 }
 .wr-breadcrumb li{
   display: inline;
+  list-style: none;
 }
-.wr-breadcrumb li span {
-    color: #7B7B7B;
+.wr-breadcrumb li a {
     font-weight: 500;
 }
 .wr-breadcrumb li a, .wr-breadcrumb li span {
-    color: #ccc;
     max-width: 10rem !important;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -110,6 +109,15 @@ a:hover{
     float:right;
 
 }
+.nav li{
+  list-style: none;
+}
+.container-fluid{
+  margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .navbar-right{
-  margin-right: -15px;
+  margin: 0;
 }
