@@ -36,7 +36,7 @@
 4. To view pages in a list, click on the list name in the collection navigator (panel on left side of the screen). 
 5. You can reorder pages in a list by dragging them up or down.
 6. You can delete pages from a list by clicking on the trash can icon. Note: deleting a page from a list will not remove the page from the collection as a whole.
-7. You can delete lists by clicking “EDIT” to the right to “LISTS” in collection navigator.
+7. You can delete lists by clicking 'EDIT' to the right to 'LISTS' in collection navigator.
 
 
 
