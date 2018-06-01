@@ -87,19 +87,19 @@
 
 <br>
 
-## Glossary <span>⭐ _- new feature_</span>
+## Glossary 
 
 <a name="capture"></a>**Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, interactive features, JavaScript, Flash, embedded media, etc)
 
 <a name="collection"></a>**Collection** - A named grouping of one or more page(s), which can include lists
 
-<a name="collection-navigator"></a>**Collection Navigator** ⭐ - panel on the left side of the screen through which you can see, edit or delete lists in a collection
+<a name="collection-navigator"></a>**Collection Navigator** - panel on the left side of the screen through which you can see, edit or delete lists in a collection
 
 <a name="cover-page"></a>**Cover Page** -  the front page for a collection
 
-<a name="inspector-panel"></a>**Inspector Panel** ⭐ - box in the lower left hand corner of the screen that displays metadata about a page, such as time of capture and session ID
+<a name="inspector-panel"></a>**Inspector Panel** - box in the lower left hand corner of the screen that displays metadata about a page, such as time of capture and session ID
 
-<a name="lists"></a>**Lists** ⭐ - a grouping of one or more pages within a collection
+<a name="lists"></a>**Lists** - a grouping of one or more pages within a collection
 
 <a name="native-browser"></a>**Native browser** - the web browser through which you are accessing the web (and Webrecorder). By default Webrecorder works through the native browser you are using to view web pages but you can choose to instead use a different preconfigured (remote) browser by selecting one from the list in the menu to the left of the box where you enter a URL when you begin a collecting session
 
