@@ -1,11 +1,11 @@
 ## Quick Start
-1. Enter a URL in the box in the center of the screen labeled ‘URL to record’.
-2. Press ‘start’ (on the bottom right hand side of the box where you entered the URL).
+1. Enter a URL in the box in the center of the screen labeled ‘URL to capture’.
+2. Press the ‘start’ button (look down and to the right of the box where you entered the URL).
 3. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
-4. Continue to browse the pages you would like to capture. Each page you visit will be included in your recording [session](#session) - you will be collecting the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
-5. To end your recording hover over the ‘Recording’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
-6. Your [capture](#capture) (recording) will then be browsable in replay mode. Note the capture (recording) will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
-7. If you are a logged-in user, this [collection](#collection) will be saved to your account. You can also log in to your account to save the collection after you create it. If you have not logged in you can still download your collection for a limited time (approximately 90 minutes from when you stop your recording session).
+4. Continue to visit and browse the pages you would like to capture. Each page you view will be included in your capture [session](#session). Note: you will be capturing the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
+5. To end your capture session hover over the ‘Capture’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
+6. Your [capture](#capture) will then be browsable. Note: the capture will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
+7. If you are a logged-in user, this session will be saved to your account automatically. If you are not logged in an account, you can sign up for an account or log in to your existing account to save the [collection](#collection) after you create it. If you do not log in you can still download your collection for a limited time (approximately 90 minutes from when you stop your recording session).
 
 
 ## Browse (access/review collection)
