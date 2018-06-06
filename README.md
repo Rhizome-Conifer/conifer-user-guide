@@ -128,5 +128,14 @@
 <a name="warc"></a>**WARC** - An ISO standard file format for saving web archives
 
 
+<br><br>
 
+-----------------------------------------------------
 
+<br>
+
+### *Contributing to this Guide*
+
+*Have a suggestion to include in this guide to better explain Webrecorder?*
+
+*The guide is available on GitHub at [webrecorder-user-guide](https://github.com/webrecorder/webrecorder-user-guide) and you can open an [issue](https://github.com/webrecorder/webrecorder-user-guide/issues) to make a suggestion. Contributions via pull requests are also welcome. You can also write to us directly at support@webrecorder.io with any feedback.*
