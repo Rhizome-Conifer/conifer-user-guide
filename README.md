@@ -149,8 +149,10 @@
 
 ## *The National Forum on Ethics & Archiving the Web*
 
-[The National Forum on Ethics & Archiving the Web](https://eaw.rhizome.org/) is a three-day conference that brings together activists, librarians, journalists, archivists, scholars, developers, and designers to talk about how to create richer, non-oppressive web archives that will better serve their publics and the historical record.
+[The National Forum on Ethics & Archiving the Web](https://eaw.rhizome.org/) was a three-day conference that brought together activists, librarians, journalists, archivists, scholars, developers, and designers to talk about how to create richer, non-oppressive web archives that will better serve their publics and the historical record.
 
 You can view footage from the 2018 conference at [https://livestream.com/newmuseum](https://livestream.com/newmuseum).
 
-*The National Forum on Ethics & Archiving the Web is organized by [Rhizome](http://rhizome.org/) and hosted at the [New Museum](https://www.newmuseum.org/) in collaboration with the University of California at Riverside Library (UCR), the Maryland Institute for Technology in the Humanities (MITH), and the [Documenting the Now](http://docnow.io/) project (DocNow).*
+*The National Forum on Ethics & Archiving the Web was organized by [Rhizome](http://rhizome.org/) and hosted at the [New Museum](https://www.newmuseum.org/) in collaboration with the University of California at Riverside Library (UCR), the Maryland Institute for Technology in the Humanities (MITH), and the [Documenting the Now](http://docnow.io/) project (DocNow).*
+
+*This event was made possible by the Institute of Museum and Library Services and the John S. and James L. Knight Foundation.*
