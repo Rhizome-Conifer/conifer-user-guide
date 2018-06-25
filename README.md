@@ -146,7 +146,7 @@
 
 <br>
 ![The NAtional Forum on Ethics & Archiving the Web](assets/eaw.jpg)
-
+<br><br>
 ## *The National Forum on Ethics & Archiving the Web*
 
 [The National Forum on Ethics & Archiving the Web](https://eaw.rhizome.org/) was a three-day conference that brought together activists, librarians, journalists, archivists, scholars, developers, and designers to talk about how to create richer, non-oppressive web archives that will better serve their publics and the historical record.
