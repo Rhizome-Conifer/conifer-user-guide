@@ -145,7 +145,7 @@
 -----------------------------------------------------
 
 <br>
-![The NAtional Forum on Ethics & Archiving the Web](assets/eaw.jpg)
+![The National Forum on Ethics & Archiving the Web](assets/eaw.jpg)
 <br><br>
 ## *The National Forum on Ethics & Archiving the Web*
 
