@@ -23,7 +23,7 @@
 ## Basic Collection Building
 1. Plan what you want to capture in a collection. Note: adding or deleting from a collection can only occur by deleting a session - you cannot delete or modify individual pages in your collection.
 2. Log in to your account and start a collection by clicking on the ‘+ New Collection’ button (near the upper left corner of the screen) and enter a name for your collection. Note: at this point you can decide to make the collection visible to other people (public); at any time you can decide to make a collection ‘public’ (shared) or ‘private’ (only visible to you).
-3. Start a collecting session by clicking on the button labeled ‘+ New Session’ and entering a URL for a page you want to add to your collection. 
+3. Start a collecting session by clicking on the button labeled ‘+ New Session’ and entering a URL for a page you want to add to your collection.
 4. Press the ‘Start’ button (on right side of the box where you entered the URL).
 5. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page, be sure to press ‘play’ so the file will load into the browser.
 6. Continue to browse the pages you would like to capture. Each page you visit will be included in your capturesession. Note: you will be capturing the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
@@ -34,10 +34,10 @@
 
 
 ## Basic List Building
-1. Look in the collection navigator (panel on left side of the screen) and click ‘EDIT’ or ‘+’ (located to the right of ‘LISTS’). 
+1. Look in the collection navigator (panel on left side of the screen) and click ‘EDIT’ or ‘+’ (located to the right of ‘LISTS’).
 2. Enter a name for the [list](#lists) then click on the ‘+’. You can make as many lists as you like. When you have finished creating one or more list, click ‘Done’.
 3. To add a page to a list you can simply drag a page over to the list in the collection navigator. Note: this will not remove the page from the main collection page (any page can be in as many lists as you’d like).
-4. To view pages in a list, click on the list name in the collection navigator (panel on left side of the screen). 
+4. To view pages in a list, click on the list name in the collection navigator (panel on left side of the screen).
 5. You can reorder pages in a list by dragging them up or down.
 6. You can delete pages from a list by clicking on the trash can icon. Note: deleting a page from a list will not remove the page from the collection as a whole.
 7. You can delete lists by clicking 'EDIT' to the right to 'LISTS' in collection navigator.
@@ -57,11 +57,11 @@
 ## Adding to a Collection and Deleting Sessions
 1. Adding or deleting from a collection happens on the basis of a capture session. You cannot delete or modify individual pages or resources in your collection.
 2. You can add to a collection by: initializing a new collecting session; starting a patch session (to fill in missing content on a previously collected page); or by uploading a [WARC](#warc) or ARC file.
-3. To delete a session from your collection, select the menu button with 3 dots in it (on the right side of the screen, to the right of the button labeled ‘Cover’) and then select ‘Manage Sessions’ from the dropdown menu. 
-4. On the sessions management page, click on the session you would like to delete. In the expanded view of the session review the information about the pages you captured in this session to make sure this is the session you want to permanently delete. 
+3. To delete a session from your collection, select the menu button with 3 dots in it (on the right side of the screen, to the right of the button labeled ‘Cover’) and then select ‘Manage Sessions’ from the dropdown menu.
+4. On the sessions management page, click on the session you would like to delete. In the expanded view of the session review the information about the pages you captured in this session to make sure this is the session you want to permanently delete.
 5. Hover over the date of capture on left side of the screen so the ‘Delete’ button becomes visible. Click the ‘Delete’ button and then the red ‘OK’ button to confirm you want to permanently delete this session.
 6. Alternately if you do not want to review the information about the contents of a session you can simply click on the trash can icon that will appear when you hover over the name of the session.
-7. Another path to delete a session is to click the session id via the [inspector panel](#inspector-panel) (in the lower left panel on your screen) or the session id column in the pages list. This session id will take you to the sessions management page where you can follow the directions above. 
+7. Another path to delete a session is to click the session id via the [inspector panel](#inspector-panel) (in the lower left panel on your screen) or the session id column in the pages list. This session id will take you to the sessions management page where you can follow the directions above.
 
 
 
@@ -91,7 +91,7 @@
 
 <br>
 
-## Glossary 
+## Glossary
 
 <a name="capture"></a>**Capture (record)** - acquiring (collecting) web pages including all features, content and elements (i.e. HTML, CSS, interactive features, JavaScript, Flash, embedded media, etc)
 
@@ -139,3 +139,20 @@
 *Have any requests, suggested edits or topics you would like add to this guide?*
 
 *The guide is available on GitHub at [webrecorder-user-guide](https://github.com/webrecorder/webrecorder-user-guide) and you can open an [issue](https://github.com/webrecorder/webrecorder-user-guide/issues) to make a suggestion. Contributions via pull requests are also welcome. You can also write to us directly at support@webrecorder.io with any feedback.*
+
+<br><br>
+
+-----------------------------------------------------
+
+<br>
+![The National Forum on Ethics & Archiving the Web](assets/eaw.jpg)
+<br><br>
+## *The National Forum on Ethics & Archiving the Web*
+
+[The National Forum on Ethics & Archiving the Web](https://eaw.rhizome.org/) was a three-day conference that brought together activists, librarians, journalists, archivists, scholars, developers, and designers to talk about how to create richer, non-oppressive web archives that will better serve their publics and the historical record.
+
+You can view footage from the 2018 conference at [https://livestream.com/newmuseum](https://livestream.com/newmuseum).
+
+*The National Forum on Ethics & Archiving the Web was organized by [Rhizome](http://rhizome.org/) and hosted at the [New Museum](https://www.newmuseum.org/) in collaboration with the University of California at Riverside Library (UCR), the Maryland Institute for Technology in the Humanities (MITH), and the [Documenting the Now](http://docnow.io/) project (DocNow).*
+
+*This event was made possible by the Institute of Museum and Library Services and the John S. and James L. Knight Foundation.*
