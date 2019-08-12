@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Autopilot Guide
+title: Autopilot
 permalink: /autopilot/
 ---
-
-# Autopilot
 
 ## Using
 
