@@ -108,6 +108,7 @@ a{
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    margin-right: 0.5rem;
 }
 .navbar-user-links {
     margin-right: 1.5rem;
@@ -125,4 +126,8 @@ a{
 }
 .navbar-right{
   margin: 0;
+}
+
+.titleHeader {
+  font-family:  'InknutAntiqua';
 }
