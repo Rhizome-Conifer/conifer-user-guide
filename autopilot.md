@@ -50,9 +50,8 @@ At the moment, the following specialized behaviors are available:
 - SlideShare
 - Facebook timeline
 
-The list of behaviors available is maintained as part of [Webrecorder’s Behaviors GitHub repository](https://github.com/webrecorder/behaviors).
+For more detailed information on the behavior system, currently available behaviors and how they're created, please see our new [Webrecorder Behaviors Developer Docs](https://webrecorder.github.io/behaviors).
 
-We are working on custom developer documentation, available at the [Behaviors Wiki](https://github.com/webrecorder/behaviors/wiki).
+Have a request for a custom behavior? Please open an issue on the [webrecorder/behaviors](https://github.com/webrecorder/behaviors) repository.
 
-Have a request for a custom behavior? Please open an issue on the behaviors repository
 Or email us at support@webrecorder.io
