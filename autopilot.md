@@ -26,25 +26,32 @@ While the behavior is running, you cannot interact with the page. The Autopilot 
 Autopilot is performing complex actions on web pages. We offer the following recommendations for best results:
 
 - Start Autopilot soon after a page loads, to avoid getting Autopilot confused.
-- Autopilot is available in both native browsers as well as in remote browsers that have the Autopilot capability listed. If your native browser is not supported, pick a remote browser from the browser menu.
 
-![Browser Dropdown](/assets/browser-dropdown.png)
+- Autopilot is available in both native browsers as well as in remote browsers that have the Autopilot capability listed. We recommend using the latest available version of Chrome, as we do the most thorough testing with that browser. If your native browser is not supported, pick a remote browser from the browser menu. 
+  ![Browser Dropdown](/assets/browser-dropdown.png)
 
 - For *Native Browsers:* Most browsers aggressively limit any activity happening in background tabs or minimized windows. Keep the tab that Autopilot is running in at the front, or place it into a new window. Do not minimize windows in which Autopilot is running. 
+
 - *Remote Browsers* are not affected by running in a background tab, but can only be active for 60 minutes. If the tab with a remote browser is closed, the Autopilot will stop after 10 minutes.
+
 - The behavior’s description will contain hints on how you can improve capture, for instance by logging in to a site through Webrecorder.
 
 ## Caveats
 
 - For many sites, getting “all” content will not be possible, especially when large amounts of items are presented via infinite scrolling. Many web sites are not able to be scrolled all the way to the bottom, but will enforce a limit earlier in the process.
+
 - Like the web itself, Autopilot is a “best-effort” approach: Sites may not be captured fully due to rate limiting, or unexpected network issues. The status messages and status log will help explain what has happened and how much content was captured.
+
 - Web sites can be expected to be frequently redesigned or technically re-architectured. When such an updated happens, Autopilot behaviors probably won’t continue working as planned and need to be adapted.
+
 - At the moment, the Autopilot works on single web pages. If you see the URL changing during a behavior’s execution, the Autopilot didn’t navigate to a new page, but the web site’s functionality itself changed the display of the URL to represent the current state of a web app. Since such URLs are also linkable from the "outside" of the web app, Webrecorder requests that outside view in the background and makes that into a bookmark.
 
 ## Troubleshooting
 
 - If you run into issues with Autopilot, please try again after switching in between remote and native browser, and/or at a later time to make sure the error is occuring consistently.
+
 - Often times, a site may change in subtle ways that requires a behavior to be updated. Please don’t hesitate to inform us about behaviors becoming outdated, especially if you think a site has recently updated.
+
 - Feel free to email us at support@webrecorder.io and if possible include the behavior’s status log and any other useful information.
 
 ## Available behaviors
