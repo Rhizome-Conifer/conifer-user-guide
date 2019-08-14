@@ -38,8 +38,8 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - For many sites, getting “all” content will not be possible, especially when large amounts of items are presented via infinite scrolling. Many web sites are not able to be scrolled all the way to the bottom, but will enforce a limit earlier in the process.
 - Like the web itself, Autopilot is a “best-effort” approach: Sites may not be captured fully due to rate limiting, or unexpected network issues. The status messages and status log will help explain what has happened and how much content was captured.
-- As web sites can be expected to be frequently redesigned or technically re-architectured. When such an updated happens, Autopilot behaviors probably won’t continue working as planned and need to be adapted.
-- At the moment, the Autopilot works on single web pages. If you see the URL changing during a behavior’s execution, the Autopilot didn’t navigate to a new page, but the web site’s functionality itself changed the display of the URL to represent the current state of a web app. These interim URLs can not be made into bookmarks by Webrecorder at this time.
+- Web sites can be expected to be frequently redesigned or technically re-architectured. When such an updated happens, Autopilot behaviors probably won’t continue working as planned and need to be adapted.
+- At the moment, the Autopilot works on single web pages. If you see the URL changing during a behavior’s execution, the Autopilot didn’t navigate to a new page, but the web site’s functionality itself changed the display of the URL to represent the current state of a web app. Since such URLs are also linkable from the "outside" of the web app, Webrecorder requests that outside view in the background and makes that into a bookmark.
 
 ## Troubleshooting
 
