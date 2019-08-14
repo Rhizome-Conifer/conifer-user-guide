@@ -14,7 +14,12 @@ The default behavior tries to perform generally useful actions: scrolling down a
 
 Click the Autopilot button to bring up the Autopilot panel. Check the presented behavior and run it with the Start button below.
 
+![Autopilot Initial](/assets/autopilot-start.png)
+
 While the behavior is running, you cannot interact with the page. The Autopilot displays information on the current capturing process. Once the behavior concludes or is manually terminated, you can continue with manual capture.
+
+![Autopilot Running](/assets/autopilot-running.png)
+
 
 ## For best results
 
@@ -22,7 +27,9 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - Start Autopilot soon after a page loads, to avoid getting Autopilot confused.
 - Autopilot is available in both native browsers as well as in remote browsers that have the Autopilot capability listed. If your native browser is not supported, pick a remote browser from the browser menu.
-  → screenshot of browser menu ←
+
+![Browser Dropdown](/assets/browser-dropdown.png)
+
 - For *Native Browsers:* Most browsers aggressively limit any activity happening in background tabs or minimized windows. Keep the tab that Autopilot is running in at the front, or place it into a new window. Do not minimize windows in which Autopilot is running. 
 - *Remote Browsers* are not affected by running in a background tab, but can only be active for 60 minutes. If the tab with a remote browser is closed, the Autopilot will stop after 10 minutes.
 - The behavior’s description will contain hints on how you can improve capture, for instance by logging in to a site through Webrecorder.
