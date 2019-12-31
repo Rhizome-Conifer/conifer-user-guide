@@ -83,6 +83,12 @@
 
 
 
+## Importing pages from a public web archive (extraction)
+1. As a logged in user you can access and import pages from public web archives, i.e. the Internet Archive. This feature is sometimes also referred to as 'extraction' but this process does not remove anything the original web archive and is making a functional copy of one or more specific page(s) from that public web archive. To import web pages from a public web archive, start a new session as you normally would and enter the URL for the archived web page located in a public web archive.
+2. View and interact with the page(s) you would like to capture - from the first page in the public web archive you can navigate within that web archive and capture pages that are linked to via that public web archive. Alternately you can paste in other URLs for pages you would like to collect.
+3. When you end your session you will have a functional copy of the archived web pages saved to your account. As with any other Webrecorder capture, this content can be managed via your account and downloaded as a WARC file for access offline.
+
+
 <br><br>
 
 
