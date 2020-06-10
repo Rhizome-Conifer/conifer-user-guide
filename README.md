@@ -6,7 +6,7 @@
 ## Quick Start
 1. Login to your user account. Enter a URL in the box in the center of the screen labeled ‘URL to capture’.
 2. Press the ‘Start Capture’ button (look down and to the right of the box where you entered the URL).
-3. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
+3. Interact with the web page that loads so Conifer can capture the content displayed on this page. To collect audio or video from a page be sure to press ‘play’ so the file will load into the browser.
 4. Continue to visit and browse the pages you would like to capture. Each page you view will be included in your capture [session](#session). Note: you will be capturing the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 5. To end your capture session hover over the ‘Capture’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
 6. Your [capture](#capture) will then be browsable. Note: the capture will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
@@ -23,10 +23,10 @@
 
 ## Basic Collection Building
 1. Plan what you want to capture in a collection. Note: adding or deleting from a collection can only occur by deleting a session - you cannot delete or modify individual pages in your collection.
-2. Log in to your account and start a collection by clicking on the ‘+ New Collection’ button (on the left side of the screen below the section labeled 'New Capture') and enter a name for your collection. Note: at this point you can decide to make the collection visible to other people (public); at any time you can decide to make a collection ‘public’ (shared) or ‘private’ (only visible to you).
-3. Start a collecting session by clicking on the button labeled ‘+ New Session’ and entering a URL for a page you want to add to your collection.
+2. Log in to your account and start a collection by clicking on the ‘+ New Collection’ button (on the left side of the screen below the section labeled 'New Capture') and enter a name for your collection. Note: at this point you can decide to make the collection visible to other people (public); at any time you can decide to make a collection ‘public’ (shared) or ‘private’ (only accessible to you).
+3. Start a capturing session by clicking on the button labeled ‘+ New Session’ and entering a URL for a page you want to add to your collection.
 4. Press the ‘Start Capture’ button (below and to the right of the box where you entered the URL).
-5. Interact with the web page that loads so Webrecorder can capture the content displayed on this page. To collect audio or video from a page, be sure to press ‘play’ so the file will load into the browser.
+5. Interact with the web page that loads so Conifer can capture the content displayed on this page. To collect audio or video from a page, be sure to press ‘play’ so the file will load into the browser.
 6. Continue to browse the pages you would like to capture. Each page you visit will be included in your capture session. Note: you will be capturing the contents of each page you visit but will not automatically obtain pages that are linked to on the pages you collect (hyperlinks).
 7. To end your capture session hover over the ‘Capture’ button in the upper left corner of the screen so it changes to read ‘Stop’ then click that button.
 8. Your collection will then be browsable. Note: the capture will not ‘replay’ like a linear recording but instead be an interactive copy of the pages you have collected.
@@ -35,13 +35,13 @@
 
 
 ## Basic List Building
-1. Open your collection in the 'Collection Manager' view. See the panel on left side of the screen and click ‘EDIT’ or ‘+’ (located to the right of ‘LISTS’).
+1. Open your collection in the ‘Collection Manager’ view. See the panel on left side of the screen and click ‘EDIT’ or ‘+’ (located to the right of ‘LISTS’).
 2. Enter a name for the [list](#lists) then click on the ‘+’. You can make as many lists as you like. When you have finished creating one or more list, click ‘Done’.
 3. To add a page to a list you can simply drag a page over to the list in the collection navigator. Note: this will not remove the page from the main collection page (any page can be in as many lists as you’d like).
 4. To view pages in a list, click on the list name in the collection navigator (panel on left side of the screen).
 5. You can reorder pages in a list by dragging them up or down.
 6. You can delete pages from a list by clicking on the trash can icon. Note: deleting a page from a list will not remove the page from the collection as a whole.
-7. You can delete lists by clicking 'EDIT' to the right to 'LISTS' in collection navigator then clicking on the trashcan icon to the left of the name of the list you would like to delete.
+7. You can delete lists by clicking ‘EDIT’ to the right to ‘LISTS’ in collection navigator then clicking on the trashcan icon to the left of the name of the list you would like to delete.
 
 
 
@@ -57,7 +57,7 @@
 
 ## Adding to a Collection and Deleting Sessions
 1. Adding or deleting from a collection happens on the basis of a capture session. You cannot delete or modify individual pages or resources in your collection.
-2. You can add to a collection by: initializing a new collecting session; starting a patch session (to fill in missing content on a previously collected page); or by uploading a [WARC](#warc) or ARC file.
+2. You can add to a collection by: initializing a new collecting session; starting a patch session (to fill in missing content on a previously collected page); or by uploading a [WARC](#warc), HAR, or ARC file.
 3. To delete a session from your collection, select the menu button with 3 dots in it (on the left side of the screen) and then select ‘Manage Sessions’ from the dropdown menu.
 4. On the sessions management page, click on the session you would like to delete. In the expanded view of the session review the information about the pages you captured in this session to make sure this is the session you want to permanently delete.
 5. Click the button labeled 'Delete'.
@@ -67,7 +67,7 @@
 
 ## Managing Collection Privacy
 1. Collections are private by default. You can make a collection public via the privacy settings. Use the button under the title of the collection to make your collection public (you can make your collection private, again, at any time using this button as well). A public collection can be viewed by anyone and a private collection can only be seen by you when you are logged into your account.
-2. To preview what your collection [cover page](#cover-page) will look like if you set your collection to ‘public’, you can click the button labeled ‘Cover’.
+2. To preview what your collection [cover page](#cover-page) will look like if you set your collection to ‘public’, you can click the link labeled ‘Collection Cover’.
 
 
 
@@ -79,12 +79,12 @@
 
 ## Exporting a Collection
 1. As a logged in user, you can download your collection as a WARC file by clicking on the menu button with 3 dots in it (on the left side of the screen, to the right of the button labeled 'New Session') and then select ‘Download Collection’ from the dropdown menu.
-2. To open a WARC file and view it offline, you can use [**Webrecorder Player**](https://github.com/webrecorder/webrecorderplayer-electron/), a free, open source software that can be [downloaded from GitHub](https://github.com/webrecorder/webrecorderplayer-electron/).
+2. To open a WARC file and view it offline, you can use [**Webrecorder Player**](https://github.com/webrecorder/webrecorder-player/releases/latest), a free, open source software that can be [downloaded from GitHub](https://github.com/webrecorder/webrecorder-player/).
 
 
 
 ## Importing pages from a public web archive (extraction)
-1. As a logged in user you can access and import pages from public web archives, i.e. the Internet Archive. This feature is sometimes also referred to as 'extraction' but this process does not remove anything the original web archive and is making a functional copy of one or more specific page(s) from that public web archive. To import web pages from a public web archive, start a new session as you normally would and enter the URL for the archived web page located in a public web archive.
+1. As a logged in user you can access and import pages from public web archives, i.e. the Internet Archive. This feature is sometimes also referred to as ‘extraction’ but this process does not remove anything the original web archive and is making a functional copy of one or more specific page(s) from that public web archive. To import web pages from a public web archive, start a new session as you normally would and enter the URL for the archived web page located in a public web archive.
 2. View and interact with the page(s) you would like to capture - from the first page in the public web archive you can navigate within that web archive and capture pages that are linked to via that public web archive. Alternately you can paste in other URLs for pages you would like to collect.
 3. When you end your session you will have a functional copy of the archived web pages saved to your account. As with any other Webrecorder capture, this content can be managed via your account and downloaded as a WARC file for access offline.
 
@@ -132,18 +132,6 @@
 
 <a name="warc"></a>**WARC** - An ISO standard file format for saving web archives
 
-
-<br><br>
-
------------------------------------------------------
-
-<br>
-
-### *Contributing to this Guide*
-
-*Have any requests, suggested edits or topics you would like add to this guide?*
-
-*The guide is available on GitHub at [webrecorder-user-guide](https://github.com/webrecorder/webrecorder-user-guide) and you can open an [issue](https://github.com/webrecorder/webrecorder-user-guide/issues) to make a suggestion. Contributions via pull requests are also welcome. You can also write to us directly at support@webrecorder.io with any feedback.*
 
 <br><br>
 
