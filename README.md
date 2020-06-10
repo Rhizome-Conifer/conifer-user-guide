@@ -1,6 +1,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yX2RrfNPQjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<small><i>The video shows the user interface before the site's rebrand.</i></small>
+
 <br>
 
 ## Quick Start
