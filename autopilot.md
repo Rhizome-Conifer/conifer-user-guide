@@ -6,13 +6,13 @@ permalink: /autopilot/
 
 ## Using
 
-Autopilot can perform actions on the current web page loaded in Webrecorder, similar to a human user. It can be activated via the Autopilot button on the top right during capture. When the button is blue, a *specialized behavior* is available for the current web page. A white button indicates that the *default behavior* will be presented instead.
+Autopilot can perform actions on the current web page loaded in Conifer, similar to a human user. It can be activated via the Autopilot button on the top right during capture. When the button is solid green, a *specialized behavior* is available for the current web page. A white button indicates that only the *default behavior* will be presented instead.
 
 A specialized behavior performs actions specific to the currently presented website.
 
 The default behavior tries to perform generally useful actions: scrolling down and triggering replay of embedded media.
 
-Click the Autopilot button to bring up the Autopilot panel. Check the presented behavior and run it with the Start button below.
+Click the Autopilot button to bring up the Autopilot panel. Pick one from the presented behaviors and run it with the Start button below.
 
 ![Autopilot Initial](/assets/autopilot-start.png)
 
@@ -34,7 +34,7 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - *Remote Browsers* are not affected by running in a background tab, but can only be active for 60 minutes. If the tab with a remote browser is closed, the Autopilot will stop after 10 minutes.
 
-- The behavior’s description will contain hints on how you can improve capture, for instance by logging in to a site through Webrecorder.
+- The behavior’s description will contain hints on how you can improve capture, for instance by logging in to a site through Conifer.
 
 ## Caveats
 
@@ -42,9 +42,9 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - Like the web itself, Autopilot is a “best-effort” approach: Sites may not be captured fully due to rate limiting, or unexpected network issues. The status messages and status log will help explain what has happened and how much content was captured.
 
-- Web sites can be expected to be frequently redesigned or technically re-architectured. When such an updated happens, Autopilot behaviors probably won’t continue working as planned and need to be adapted.
+- Web sites can be expected to be frequently redesigned or technically re-architectured. When such an updated happens, Autopilot behaviors probably won’t continue working as planned and need to be adapted. Each behavior lists a date when it was last updated.
 
-- At the moment, the Autopilot works on single web pages. If you see the URL changing during a behavior’s execution, the Autopilot didn’t navigate to a new page, but the web site’s functionality itself changed the display of the URL to represent the current state of a web app. Since such URLs are also linkable from the "outside" of the web app, Webrecorder requests that outside view in the background and makes that into a bookmark.
+- At the moment, the Autopilot works on single web pages. If you see the URL changing during a behavior’s execution, the Autopilot didn’t navigate to a new page, but the web site’s functionality itself changed the display of the URL to represent the its current state. Since such URLs are also linkable from the "outside" of the web page, Conifer requests that outside view in the background and makes that into a bookmark.
 
 ## Troubleshooting
 
@@ -52,7 +52,7 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - Often times, a site may change in subtle ways that requires a behavior to be updated. Please don’t hesitate to inform us about behaviors becoming outdated, especially if you think a site has recently updated.
 
-- Feel free to email us at support@webrecorder.io and if possible include the behavior’s status log and any other useful information.
+- Feel free to email us at support@conifer.rhizome.org and if possible include the behavior’s status log and any other useful information.
 
 ## Available behaviors
 
@@ -68,4 +68,4 @@ For more detailed information on the behavior system, currently available behavi
 
 Have a request for a custom behavior? Please open an issue on the [webrecorder/behaviors](https://github.com/webrecorder/behaviors) repository.
 
-Or email us at support@webrecorder.io
+Or email us at support@conifer.rhizome.org
