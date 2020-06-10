@@ -4,6 +4,8 @@ title: Autopilot
 permalink: /autopilot/
 ---
 
+<small><i>Screenshots shown in this guide currently show the user interface before rebrand.</i></small>
+
 ## Using
 
 Autopilot can perform actions on the current web page loaded in Conifer, similar to a human user. It can be activated via the Autopilot button on the top right during capture. When the button is solid green, a *specialized behavior* is available for the current web page. A white button indicates that only the *default behavior* will be presented instead.
