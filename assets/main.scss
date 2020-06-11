@@ -3,53 +3,53 @@
 @import "minima";
 
 @font-face {
-  font-family: 'InknutAntiqua';
+  font-family: 'Gza';
   font-weight: normal;
-  src: url('InknutAntiqua-Regular.woff2') format('woff2'),
-       url('InknutAntiqua-Regular.woff') format('woff'),
-       url('InknutAntiqua-Regular.ttf')  format('truetype');
+  src: url('fonts/gza-seminegra-webfont.woff2') format('woff2'),
+       url('fonts/gza-seminegra-webfont.woff') format('woff'),
+       url('fonts/gza-seminegra-webfont.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'HKGrotesk';
   font-weight: normal;
-  src: url('HKGrotesk-Regular.woff2') format('woff2'),
-       url('HKGrotesk-Regular.woff') format('woff'),
-       url('HKGrotesk-Regular.ttf')  format('truetype');
+  src: url('fonts/HKGrotesk-Regular.woff2') format('woff2'),
+       url('fonts/HKGrotesk-Regular.woff') format('woff'),
+       url('fonts/HKGrotesk-Regular.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'HKGrotesk';
   font-weight: 300;
-  src: url('HKGrotesk-Light.woff2') format('woff2'),
-       url('HKGrotesk-Light.woff') format('woff'),
-       url('HKGrotesk-Light.ttf')  format('truetype');
+  src: url('fonts/HKGrotesk-Light.woff2') format('woff2'),
+       url('fonts/HKGrotesk-Light.woff') format('woff'),
+       url('fonts/HKGrotesk-Light.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'HKGrotesk';
   font-weight: 300;
   font-style: italic;
-  src: url('HKGrotesk-LightItalic.woff2') format('woff2'),
-       url('HKGrotesk-LightItalic.woff') format('woff'),
-       url('HKGrotesk-LightItalic.ttf')  format('truetype');
+  src: url('fonts/HKGrotesk-LightItalic.woff2') format('woff2'),
+       url('fonts/HKGrotesk-LightItalic.woff') format('woff'),
+       url('fonts/HKGrotesk-LightItalic.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'HKGrotesk';
   font-weight: bold;
-  src: url('HKGrotesk-Bold.woff2') format('woff2'),
-       url('HKGrotesk-Bold.woff') format('woff'),
-       url('HKGrotesk-Bold.ttf')  format('truetype');
+  src: url('fonts/HKGrotesk-Bold.woff2') format('woff2'),
+       url('fonts/HKGrotesk-Bold.woff') format('woff'),
+       url('fonts/HKGrotesk-Bold.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'HKGrotesk';
   font-weight: bold;
   font-style: italic;
-  src: url('HKGrotesk-BoldItalic.woff2') format('woff2'),
-       url('HKGrotesk-BoldItalic.woff') format('woff'),
-       url('HKGrotesk-BoldItalic.ttf')  format('truetype');
+  src: url('fonts/HKGrotesk-BoldItalic.woff2') format('woff2'),
+       url('fonts/HKGrotesk-BoldItalic.woff') format('woff'),
+       url('fonts/HKGrotesk-BoldItalic.ttf')  format('truetype');
 }
 
 body{
@@ -129,5 +129,5 @@ a{
 }
 
 .titleHeader {
-  font-family:  'InknutAntiqua';
+  font-family:  'Gza';
 }
