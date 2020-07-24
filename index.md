@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home: Quick Start
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -15,25 +15,22 @@ Welcome to the user guide for [Conifer](https://conifer.rhizome.org/) web archiv
 
 This user guide welcomes community contributions and feedback, learn more [here](https://github.com/Rhizome-Conifer/conifer-user-guide).
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
 ## Quick Start
 
 ### Capture a Webpage
 
+[diagram]
+
+[diagram]
+
+[diagram]
+
+[diagram]
 
 
 ---
-
-## About the project
-
- is &copy; 2017-{{ "now" | date: "%Y" }}
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
 
 #### Current and Past Contributors to the Conifer User Guide
@@ -45,6 +42,3 @@ Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/j
   </li>
 {% endfor %}
 </ul>
-
- <small>&copy; 2017-{{ "now" | date: "%Y" }} [Rhizome.org](https://rhizome.org/).</small>
- <small>This user guide is built using [Jekyll](https://github.com/jekyll/jekyll) and the [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme by [Patrick Marsceill](http://patrickmarsceill.com).</small>

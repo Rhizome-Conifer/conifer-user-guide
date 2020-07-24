@@ -4,7 +4,7 @@ title: How Conifer Works
 nav_order: 3
 ---
 
-# How It Works
+# How Conifer Works
 {: .no_toc }
 
 To archive a website, Conifer allows you to capture the site and your interaction with it.  When you (or another) person accesses a capture session, they are able to engage with the site as it existed. Below, we will define some fundamental concepts to help ensure successful captures.

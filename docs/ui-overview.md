@@ -13,13 +13,17 @@ nav_order: 4
 1. TOC
 {:toc}
 
+---
+
 ### Collection Manager
 Diagram goes here.
+---
 
 ### During Access
 Diagram goes here.
+---
 
 ### During Capture
 Diagram goes here.
-
- 
+---
+  
