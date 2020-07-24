@@ -2,6 +2,7 @@
 layout: page
 title: Autopilot
 permalink: /autopilot/
+published: false
 ---
 
 <small><i>Screenshots shown in this guide currently show the user interface before rebrand.</i></small>
@@ -29,10 +30,10 @@ Autopilot is performing complex actions on web pages. We offer the following rec
 
 - Start Autopilot soon after a page loads, to avoid getting Autopilot confused.
 
-- Autopilot is available in both native browsers as well as in remote browsers that have the Autopilot capability listed. We recommend using the latest available version of Chrome, as we do the most thorough testing with that browser. If your native browser is not supported, pick a remote browser from the browser menu. 
+- Autopilot is available in both native browsers as well as in remote browsers that have the Autopilot capability listed. We recommend using the latest available version of Chrome, as we do the most thorough testing with that browser. If your native browser is not supported, pick a remote browser from the browser menu.
   ![Browser Dropdown](/assets/browser-dropdown.png)
 
-- For *Native Browsers:* Most browsers aggressively limit any activity happening in background tabs or minimized windows. Keep the tab that Autopilot is running in at the front, or place it into a new window. Do not minimize windows in which Autopilot is running. 
+- For *Native Browsers:* Most browsers aggressively limit any activity happening in background tabs or minimized windows. Keep the tab that Autopilot is running in at the front, or place it into a new window. Do not minimize windows in which Autopilot is running.
 
 - *Remote Browsers* are not affected by running in a background tab, but can only be active for 60 minutes. If the tab with a remote browser is closed, the Autopilot will stop after 10 minutes.
 
