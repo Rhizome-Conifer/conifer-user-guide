@@ -10,9 +10,11 @@ nav_order: 3
 
 There are many web archives which preserve and provide web content and make it publicly accessible. With Conifer, you may import pages from a public web archive into your own collections. See below for a list of some public web archives.
 
-[diagram]
+![Get the url of the publicly hosted resource](../../images/conifer-user-guide-024.jpeg)
 
-[diagram]
+
+![Paste directly into Conifer to import](../../images/conifer-user-guide-025.jpeg)
+
 
 ---
 ## List of Public Web Archives

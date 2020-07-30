@@ -12,4 +12,4 @@ Sometimes, a capture is missing important information or functionality. In this 
 
 After successful patching, the missing content should become available in the collection.
 
-[diagram]
+![Patching a previous capture](../../images/conifer-user-guide-023.jpeg)
