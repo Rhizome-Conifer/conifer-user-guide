@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home: Quick Start
+title: Home&#58; Quick Start
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "The Conifer User Guide"
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
@@ -17,17 +17,15 @@ This user guide welcomes community contributions and feedback, learn more [here]
 
 ---
 
-## Quick Start
+# Quick Start: Capture a Webpage
 
-### Capture a Webpage
+![Quick Start 1](docs/images/conifer-user-guide-009.jpeg)
 
-[diagram]
+![Quick Start 2](docs/images/conifer-user-guide-010.jpeg)
 
-[diagram]
+![Quick Start 3](docs/images/conifer-user-guide-011.jpeg)
 
-[diagram]
-
-[diagram]
+![Quick Start 4](docs/images/conifer-user-guide-012.jpeg)
 
 
 ---

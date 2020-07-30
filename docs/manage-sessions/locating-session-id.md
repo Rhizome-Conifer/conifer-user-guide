@@ -13,7 +13,7 @@ The Session ID of the parent Capture Session from which a resource originates is
 1. the Session ID column in resources view
 2. the metadata inspector when a resource is selected
 
-[diagram]
+![Locating Session ID in Collection Manager](../../images/conifer-user-guide-016.jpeg)
 
 Clicking on the resource’s Session ID will take you to the [Session Manager](), where you may then [delete]() or [download]() that specific session as a WARC.
 

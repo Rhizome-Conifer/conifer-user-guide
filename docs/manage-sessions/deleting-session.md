@@ -22,4 +22,4 @@ Note that deleting a session removes ALL resources captured during that session.
 4. Click delete and confirm when prompted.
 
 
-[diagram]
+![Controls to delete a capture session](../../images/conifer-user-guide-015.jpeg)

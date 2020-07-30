@@ -12,8 +12,8 @@ Your collection’s Session Manager can be found at:
 http://conifer.rhizome.org/*[your_username]*/*[collection_name]*/management
 ```
 
-[diagram]
+![Click "manage sessions"](../../images/conifer-user-guide-013.jpeg)
 
-[diagram]
+![The Session Manager](../../images/conifer-user-guide-014.jpeg)
 
 Here, you can [delete a capture session](), add content by [uploading warc files](), or [download sessions or your entire collection as warc files]().

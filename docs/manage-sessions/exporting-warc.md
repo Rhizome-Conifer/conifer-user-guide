@@ -10,6 +10,6 @@ nav_order: 5
 
 To download individual capture sessions, go to the [Capture Sessions Manager]().
 
-[diagram]
+![Download whole collection as a warc](../../images/conifer-user-guide-019.jpeg)
 
-[diagram]
+![Download individual capture sessions](../../images/conifer-user-guide-020.jpeg)

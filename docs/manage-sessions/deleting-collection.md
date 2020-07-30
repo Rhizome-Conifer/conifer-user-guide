@@ -15,6 +15,6 @@ nav_order: 6
 **Deletion is permanent**, there are **no** additional copies or means to recover deleted content. It is advisable to first [download a backup copy]() of your collection.
 {: 	.bg-yellow-100 .p-4}
 
-[diagram]
+![Click "delete session"](../../images/conifer-user-guide-021.jpeg)
 
-[diagram]
+![Type collection name to confirm](../../images/conifer-user-guide-022.jpeg)

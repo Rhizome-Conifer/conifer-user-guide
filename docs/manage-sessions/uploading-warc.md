@@ -10,6 +10,6 @@ nav_order: 4
 
 Conifer can handle WARCs created with any web archiving tool.
 
-[diagram]
+![Controls to delete a capture session](../../images/conifer-user-guide-017.jpeg)
 
-[diagram]
+![Controls to delete a capture session](../../images/conifer-user-guide-018.jpeg)

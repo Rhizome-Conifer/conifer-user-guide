@@ -16,14 +16,12 @@ nav_order: 4
 ---
 
 ### Collection Manager
-Diagram goes here.
----
+![Collection Manager UI Overview](../images/conifer-user-guide-001.jpeg)
+<hr>
 
 ### During Access
-Diagram goes here.
----
+![Access UI Overview](../images/conifer-user-guide-002.jpeg)
+<hr>
 
 ### During Capture
-Diagram goes here.
----
-  
+![Capture UI Overview](../images/conifer-user-guide-003.jpeg)
