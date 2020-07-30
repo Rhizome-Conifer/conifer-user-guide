@@ -1,0 +1,80 @@
+$conifer-pine: #DCEDC9;
+$conifer-pine-lt: #F4FCEA;
+$dusty-pine: #C0C2A3;
+$deep-pine: #676C5B;
+$vivid-pine: #869A5D;
+$dried-needle: #CCAE83;
+$pine-sap: #ECD289;
+$pine-nut: #FFE0B3;
+$redwood: #FE9B7E;
+
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-Regular.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-Regular.woff2") format("woff2"),
+         url("./assets/fonts/HKGrotesk-Regular.woff") format("woff");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-Bold.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-Bold.woff2") format("woff2"),
+         url("../fonts/HKGrotesk-Bold.woff") format("woff");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-BoldItalic.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-BoldItalic.woff2") format("woff2"),
+         url("../fonts/HKGrotesk-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-LightItalic.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-LightItalic.woff2") format("woff2"),
+         url("../fonts/HKGrotesk-LightItalic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-Light.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-Light.woff2") format("woff2"),
+         url("../fonts/HKGrotesk-Light.woff") format("woff");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "HKGrotesk";
+    src: url("../fonts/HKGrotesk-Italic.ttf") format('truetype'),
+         url("../fonts/HKGrotesk-Italic.woff2") format("woff2"),
+         url("../fonts/HKGrotesk-Italic.woff") format("woff");
+    font-style: italic;
+}
+
+.site-header {
+  border-bottom: 1px solid $dusty-pine;
+}
+
+.site-title:hover {
+    background-image: none;
+}
+
+
+// nav
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+    background-image: none;
+    background-color: $conifer-pine;
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: none;
+    background-color: darken($conifer-pine, 3%);
+}
