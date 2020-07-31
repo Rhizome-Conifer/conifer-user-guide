@@ -9,5 +9,5 @@ permalink: docs/manage-sessions
 # Managing Captures
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+Each time you begin and end a capture, Conifer saves it as a capture session. You can think of one capture session as an indivisible unit, which stores all the data produced by the browsing activity from the start to the end of that session.
 {: .fs-6 .fw-300 }

@@ -9,5 +9,5 @@ permalink: docs/capture-approaches
 # Approaches to Capturing Web Pages
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+This section aims to explain the key technical parameters in the processes through which Conifer can capture web traffic, and explains why different approaches may produce different results. 
 {: .fs-6 .fw-300 }
