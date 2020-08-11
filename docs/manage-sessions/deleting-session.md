@@ -14,10 +14,10 @@ nav_order: 2
 Note that deleting a session removes ALL resources captured during that session.
 {: 	.bg-yellow-100 .p-4}
 
-**TIP:** [Download a backup]() of the session and/or the entire collection prior to deleting as a precaution.
+**TIP:** [Download a backup](../exporting-warc) of the session and/or the entire collection prior to deleting as a precaution.
 
-1. Go to the collection’s [session management page]().
-2. Identify the session you want to delete based on the timestamp. If you need help tracing which session(s) to delete, try [inspecting the metadata of resources]().
+1. Go to the collection’s [session management page](../session-manager).
+2. Identify the session you want to delete based on the timestamp. If you need help tracing which session(s) to delete, try [inspecting the metadata of resources](../locating-session-id).
 3. *Optional: Download a backup of the session.*
 4. Click delete and confirm when prompted.
 

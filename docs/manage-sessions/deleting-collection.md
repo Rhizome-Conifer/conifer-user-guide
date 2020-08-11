@@ -12,7 +12,7 @@ nav_order: 6
 #### **Proceed with Caution**
 {: .label .label-red }
 **All content within the collection will be permanently deleted.**<br>
-**Deletion is permanent**, there are **no** additional copies or means to recover deleted content. It is advisable to first [download a backup copy]() of your collection.
+**Deletion is permanent**, there are **no** additional copies or means to recover deleted content. It is advisable to first [download a backup copy](../exporting-warc) of your collection.
 {: 	.bg-yellow-100 .p-4}
 
 ![Click "delete session"](../../images/conifer-user-guide-021.jpeg)

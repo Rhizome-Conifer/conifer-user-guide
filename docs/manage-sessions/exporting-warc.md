@@ -8,7 +8,7 @@ nav_order: 5
 # Exporting or Downloading Content
 {: .no_toc }
 
-To download individual capture sessions, go to the [Capture Sessions Manager]().
+To download individual capture sessions, go to the [Capture Sessions Manager](../session-manager).
 
 ![Download whole collection as a warc](../../images/conifer-user-guide-019.jpeg)
 

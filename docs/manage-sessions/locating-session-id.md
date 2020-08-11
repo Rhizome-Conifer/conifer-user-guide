@@ -15,7 +15,7 @@ The Session ID of the parent Capture Session from which a resource originates is
 
 ![Locating Session ID in Collection Manager](../../images/conifer-user-guide-016.jpeg)
 
-Clicking on the resource’s Session ID will take you to the [Session Manager](), where you may then [delete]() or [download]() that specific session as a WARC.
+Clicking on the resource’s Session ID will take you to the [Session Manager](../session-manager), where you may then [delete](../deleting-session) or [download](../exporting-warc) that specific session as a WARC.
 
 #### **Proceed with Caution**
 {: .label .label-red }

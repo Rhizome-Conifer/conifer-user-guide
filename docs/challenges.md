@@ -25,8 +25,8 @@ While the majority of our on-going efforts are dedicated to enabling the capture
 
 
 ### How You Can Help
-As a user, you can help our efforts by [reporting bugs](), contributing to the [user guide](), and [sharing your work]() to help other users.  
+As a user, you can help our efforts by [reporting bugs](../report-bug), contributing to the [user guide](../contribute), and [sharing your work]() to help other users.  
 
-If you have development skills, consider contributing to the [Webrecorder open source toolchain]() that Conifer is built upon.
+If you have development skills, consider contributing to the [Webrecorder open source toolchain](https://webrecorder.net/) that Conifer is built upon.
 
 [Join our mailing list]() to keep up with the Conifer community.
