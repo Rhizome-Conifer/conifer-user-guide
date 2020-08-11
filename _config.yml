@@ -17,7 +17,7 @@ theme: "just-the-docs"
 title: Conifer User Guide
 description: User Guide for Conifer.Rhizome.org
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://guide.conifer.rhizome.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guide.conifer.rhizome.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
