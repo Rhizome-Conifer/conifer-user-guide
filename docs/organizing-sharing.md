@@ -7,7 +7,7 @@ nav_order: 7
 # Organizing and Sharing Collected Pages
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+The contents of a collection can be organized into lists. Privacy settings allow you to share entire collections, or just specific lists. 
 {: .fs-6 .fw-300 }
 
 ## Table of contents
