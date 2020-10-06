@@ -2,7 +2,7 @@
 layout: default
 title: Patching Captures
 parent: Approaches to Capturing
-nav_order: 2
+nav_order: 02
 ---
 
 # Patching a Capture
@@ -13,3 +13,5 @@ Sometimes, a capture is missing important information or functionality. In this 
 After successful patching, the missing content should become available in the collection.
 
 ![Patching a previous capture](../../images/conifer-user-guide-023.jpeg)
+
+In the [session manager](../../manage-sessions/session-manager/), patch sessions are marked with a label and can be handled separately.

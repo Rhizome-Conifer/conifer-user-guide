@@ -2,14 +2,14 @@
 layout: default
 title: Deleting Capture Sessions
 parent: Managing Captures
-nav_order: 2
+nav_order: 02
 ---
 
 # Capture Sessions Management Page
 {: .no_toc }
 
-#### **Proceed with Caution**
-{: .label .label-red }
+**Proceed with Caution**{: .label .label-red }
+
 **Deletion is permanent**, there are **no** additional copies or means to recover deleted content.<br>
 Note that deleting a session removes ALL resources captured during that session.
 {: 	.bg-yellow-100 .p-4}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home&#58; Quick Start
-nav_order: 1
+nav_order: 01
 description: "The Conifer User Guide"
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
@@ -13,7 +13,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 Welcome to the user guide for [Conifer](https://conifer.rhizome.org/) web archiving service hosted by [Rhizome](https://rhizome.org/).
 {: .fs-6 .fw-300 }
 
-This user guide welcomes community contributions and feedback, learn more [here](https://github.com/Rhizome-Conifer/conifer-user-guide).
+This user guide welcomes community [contributions and feedback](docs/contribute/).
 
 ---
 
