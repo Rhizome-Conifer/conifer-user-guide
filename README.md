@@ -1,6 +1,10 @@
-# User Guide for Rhizome's Conifer Web Archiving Service
+# Conifer User Guide
 
-Install Jekyll and bundler gems.
+This repository hosts the contents of the Conifer User Guide, available at <https://guide.conifer.rhizome.org/>
+
+### Building the web site locally
+
+Install [Jekyll](https://jekyllrb.com/) and bundler gems:
 ```
 gem install jekyll bundler
 ```
