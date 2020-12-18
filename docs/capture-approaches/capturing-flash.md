@@ -9,7 +9,7 @@ nav_order: 04
 # Archiving Flash: Best Practice
 {: .no_toc }
 
-Flash, like various web technologies before it, was a popular way to build websites, games, and other types of interactive content online. Flash slowly fell out of favor and was ultimately deprecated. The Chrome web browser is scheduled to remove support for Flash websites on December 31st, 2020.
+Flash, like various web technologies before it, was a popular way to build websites, games, and other types of interactive content online. Flash slowly fell out of favor and was ultimately deprecated. The Chrome web browser is scheduled to [remove support for Flash websites](https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/) on December 31st, 2020.
 
 ## Capturing Flash sites that are still online
 
