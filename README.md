@@ -14,7 +14,7 @@ Install the required dependencies using Ruby's package manager:
 gem install jekyll bundler
 ```
 
-To build the site and launch a local web server that makes it accessible, run: 
+To build the site and launch a local web server that makes it accessible, run:
 
 ```
 bundle exec jekyll serve
@@ -24,14 +24,7 @@ Browse to [http://localhost:4000](http://localhost:4000)
 
 Contact: [support@conifer.rhizome.org](mailto:support@conifer.rhizome.org)
 
-<<<<<<< HEAD
-
 ---
-=======
-### Licensing
-
-Copyright 2020 Rhizome and Contributors.
->>>>>>> dd8b6204410286b43d27c511c9847f539e0ff987
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 

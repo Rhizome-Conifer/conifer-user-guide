@@ -2,7 +2,6 @@
 layout: default
 title: Archiving Flash
 parent: Approaches to Capturing
-nav_exclude: true
 nav_order: 04
 ---
 
