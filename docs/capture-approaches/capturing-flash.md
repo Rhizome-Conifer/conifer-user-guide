@@ -5,10 +5,16 @@ parent: Approaches to Capturing
 nav_order: 04
 ---
 
+
 # Archiving Flash: Best Practice
 {: .no_toc }
 
 Flash, like various web technologies before it, was a popular way to build websites, games, and other types of interactive content online. Flash slowly fell out of favor and was ultimately deprecated. The Chrome web browser is scheduled to [remove support for Flash websites](https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/) on December 31st, 2020.
+
+an important note
+{: .label .label-yellow }
+
+As long as a Flash site remains online it will still be accessible and able to be archived using the strategies outlined below, even after the deadline.
 
 ## Capturing Flash sites that are still online
 
