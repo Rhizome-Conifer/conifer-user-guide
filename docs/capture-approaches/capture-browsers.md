@@ -12,7 +12,7 @@ There are three browser options to capture a site:
 {: .fs-5 .fw-300 }
 - Via your **local browser**
 - Via **remote browser**
-- Via the **desktop app**
+- Via the **ArchiveWeb.page desktop app**
 {: .fs-5 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ In **rewriting mode**, all resources the browser requests are changed on the fly
 **Proxy mode** has the web archiving backend connected to the browser via a web proxy. A web proxy is an intermediate server that routes traffic in between an internal network and the whole internet. The browser can make requests as usual and the web archiving backend will have access to all of them, with almost no rewriting required. This makes proxy mode generally a more stable and reliable capture method that doesn’t require constant updating. It is however not guaranteed that it leads to better results than rewriting mode in all cases. In Conifer, **proxy mode is only available for remote browsers**.
 
 ## Network Location
-Websites can also appear differently depending on the **network location** they are accessed from. When you use Conifer to capture web sites, Conifer’s network location in an amazon datacenter in Virginia, USA, might cause the page you’re looking at to appear in a different language than you would expect, or deny access to certain items that are accessible in other parts of the world. 
+Websites can also appear differently depending on the **network location** they are accessed from. When you use Conifer to capture web sites, Conifer’s network location in an amazon datacenter in Virginia, USA, might cause the page you’re looking at to appear in a different language than you would expect, or deny access to certain items that are accessible in other parts of the world.
 
 Sites might also limit access, since every user of Conifer shares a network location with all other Conifer users who perhaps all want to capture from the same site. **Sites may also limit access due to high traffic**, since all Conifer users share one network location.
 
-## Capturing with Desktop App
-To capture from your regular network location, you can try the **[Webrecorder Desktop app](https://github.com/webrecorder/webrecorder-desktop/releases/)**, a standalone web archiving software using almost the same user interface as Conifer. This app is based on a modified Chrome browser and offers capture and access in **proxy mode**. Collections created with the app can also be [uploaded to Conifer](../../manage-sessions/uploading-warc).
+## Capturing with ArchiveWeb.page Desktop App
+To capture from your regular network location, you can try the **[ArchiveWeb.page Desktop app](https://github.com/webrecorder/archiveweb.page/releases/latest)**, a standalone web archiving software from the [Webrecorder.net](https://webrecorder.net) team using some of the same tools Conifer uses. Collections created with the ArchiveWeb.page can then be [uploaded to Conifer](../../manage-sessions/uploading-warc).
 
 ## Capturing Logged-In Content
 Many websites are personalized and appear differently depending on **user identity**. Conifer cannot know which sites you have previously logged in to on your browser. Each capture session, regardless of whether you are using your local browser or a remote browser, begins without any login data. In other words, each capture session begins with the user logged out of all services.
