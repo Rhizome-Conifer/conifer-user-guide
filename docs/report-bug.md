@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Report Bugs
-nav_order: 10
+nav_order: 11
 ---
 # Report a Bug
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: License
-nav_order: 12
+nav_order: 13
 ---
 # Conifer User Guide License
 
