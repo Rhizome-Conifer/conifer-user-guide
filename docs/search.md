@@ -37,6 +37,17 @@ Search query configurations are reflected in the prefix applied to the search bo
   <figcaption class="text-small">An example search query for images with “gif” in the url between may 25 2019 - may 25 2020</figcaption>
 </figure>
 
+#### search query examples
+
+
+`is:image url:.gif` filter elements matching the image mime type and contains ".gif" in the url
+
+`is:page start:1996-01-01T01:00 end:1997-01-00T01:00 rhizome` find the text "rhizome" within all pages between the specified dates (if [full-text search](#full-text-search) is enabled, this will search within the contents of your captures, otherwise the page title)
+
+`is:audio is:video` find all elements with a video or audio mime type
+
+`is:image session:oyh47a7wqr6hdftf` find all images from the specified capture session
+
 ## Full-Text Search
 
 <figure>
