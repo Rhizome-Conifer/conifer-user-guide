@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Organizing &amp; Sharing
-nav_order: 7
+nav_order: 07
 ---
 
 # Organizing and Sharing Collected Pages
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+Lists can be used to organize entry points into a collection. Privacy settings allow you disable public access to a collection, share entry points to all pages of a collection, or just specific lists. 
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -17,8 +17,8 @@ CSS utility classes come in handy when you to want to override default styles to
 {:toc}
 
 ## Managing Collection & List Privacy
-- By default, collections are private. Private collections can only be viewed by their authors.
-- Setting a collection’s privacy to public enables any visitor to view the contents of the collection.
+- By default, collections are private. Private collections can only be viewed by their owners.
+- Setting a collection’s privacy to **public** enables any visitor to view the contents of the collection.
 - The privacy of lists can also be toggled. A private list in a public collection is hidden from visitors.
 - The privacy of the collections’ resources can also be toggled. If a collection’s resources index is set to public, visitors can browse and search all resources within a collection.
 

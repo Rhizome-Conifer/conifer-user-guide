@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Via Public Archives
+title: via Public Archives
 parent: Approaches to Capturing
-nav_order: 3
+nav_order: 03
 ---
 
 # Importing Pages from a Public Web Archive
@@ -79,4 +79,4 @@ There are many web archives which preserve and provide web content and make it p
 
 
 ---
-Have any to add to this list? [Contact us](mailto:support@conifer.rhizome.org)!
+Have any to add to this list? [Contact us](mailto:support@conifer.rhizome.org), or contribute to the [Public Web Archives](https://github.com/webrecorder/public-web-archives) repository!
